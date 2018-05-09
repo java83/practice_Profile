@@ -1,0 +1,27 @@
+body {
+    margin: 5% 10%;
+}
+
+.center{
+    text-align: center;
+}
+
+#about {
+    margin: 10px;
+}
+#man {
+    float: left;
+    height: 160px;
+    width: 120px;
+}
+#bady {
+    background-image: url("http://notgoaway.com/wp-content/uploads/2017/07/Nature-Background-60.jpg");
+background-repeat: no-repeat;
+}
+.text {
+    color: red;
+}
+.java{
+    font-style: oblique;
+    color: blue;
+}
